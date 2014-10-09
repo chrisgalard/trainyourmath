@@ -1,4 +1,4 @@
-train-your-math
+Train your math!
 ===============
 
 Burn your brain with this fun game :D
